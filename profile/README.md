@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-header.svg" width="100%" alt="ZENRICK — cyberpunk header" />
+  <img src="https://raw.githubusercontent.com/Zenrick-dev/.github/main/profile/assets/cyber-header.svg" width="100%" alt="ZENRICK — cyberpunk header" />
 </div>
 
 <br />
@@ -61,5 +61,5 @@ We build with technologies that guarantee control, performance, and scalability.
 <br />
 
 <div align="center">
-  <img src="./assets/cyber-footer.svg" width="100%" alt="Zenrick cyberpunk footer" />
+  <img src="https://raw.githubusercontent.com/Zenrick-dev/.github/main/profile/assets/cyber-footer.svg" width="100%" alt="Zenrick cyberpunk footer" />
 </div>
