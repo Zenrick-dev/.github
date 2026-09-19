@@ -1,20 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=250&section=header&text=Zenrick&fontSize=70&desc=Architecting%20Autonomous%20Ecosystems&descAlign=50&descAlignY=65&animation=fadeIn" alt="Zenrick Header" />
+  <img src="./assets/cyber-header.svg" width="100%" alt="ZENRICK — cyberpunk header" />
 </div>
 
-<p align="center">
-  <b>Advanced Agentic Orchestration • Self-Hosted Infrastructure • Multi-Tenant Platforms</b>
-</p>
+<br />
 
 <div align="center">
   <a href="https://github.com/Zenrick-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Zenrick GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-05060d?style=for-the-badge&logo=github&logoColor=00aaff" alt="Zenrick GitHub" />
   </a>
 </div>
 
 <br />
 
-## 🌌 About Zenrick
+## About Zenrick
 
 **Zenrick** is a private technology ecosystem dedicated to pushing the boundaries of autonomous systems, scalable infrastructure, and intelligent automation. We build the foundational engines that power next-generation B2B platforms, AI agents, and high-performance microservices.
 
@@ -63,5 +61,5 @@ We build with technologies that guarantee control, performance, and scalability.
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=100&section=footer" alt="Footer" />
+  <img src="./assets/cyber-footer.svg" width="100%" alt="Zenrick cyberpunk footer" />
 </div>
